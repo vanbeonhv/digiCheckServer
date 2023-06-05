@@ -1,0 +1,68 @@
+{
+  "pqa": [
+    {
+      "sn": "1",
+      "projectCode": "KCDE",
+      "author": "Scarlet Witch",
+      "date": "20.10.2022",
+      "trade1Score": 8.75,
+      "trade2Score": 8.57,
+      "observationScore": 12.5,
+      "lastMonthPqaScore": 6.25,
+      "findingDetailScore": 38.57,
+      "totalScore": 74.64,
+      "status": "in-progress",
+      "remark": "need to double check",
+      "action": ""
+    }
+  ],
+  "checklist_1": [
+    {
+      "pqa_id": 1,
+      "trade": "tiling",
+      "location": "tower2",
+      "score_list": [],
+      "note_list": []
+    }
+  ],
+  "checklist_2": [
+    {
+      "pqa_id": 1,
+      "trade": "blockwork",
+      "location": "tower1",
+      "score_list": [],
+      "note_list": []
+    }
+  ],
+  "observation": [
+    {
+      "pqa_id": 1,
+      "observation": "blockwork",
+      "score_list": [],
+      "remark_list": []
+    }
+  ],
+  "last_month_finding": [
+    {
+      "pqa_id": 1,
+      "score_list": {
+        "total_findings": 0,
+        "yes": 0,
+        "partial": 0,
+        "no": 0,
+        "na": 0
+      }
+    }
+  ],
+  "finding": [
+    {
+      "pqa_id": 1,
+      "id": "uuidv4",
+      "severityPoint": 0,
+      "frequencyPoint": 0,
+      "points": 0,
+      "findingReport": "",
+      "image": []
+    }
+  ]
+}
