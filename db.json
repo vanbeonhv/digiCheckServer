@@ -11,7 +11,37 @@
       "lastMonthPqaScore": 6.25,
       "findingDetailScore": 38.57,
       "totalScore": 74.64,
-      "status": "in-progress",
+      "status": "submitted",
+      "remark": "need to double check",
+      "action": ""
+    },
+    {
+      "sn": "2",
+      "projectCode": "BB5",
+      "author": "Van",
+      "date": "20.11.2022",
+      "trade1Score": 8.75,
+      "trade2Score": 8.57,
+      "observationScore": 12.5,
+      "lastMonthPqaScore": 6.25,
+      "findingDetailScore": 38.57,
+      "totalScore": 74.64,
+      "status": "submitted",
+      "remark": "need to double check",
+      "action": ""
+    },
+    {
+      "sn": "3",
+      "projectCode": "TWG",
+      "author": "John Nathan",
+      "date": "25.10.2022",
+      "trade1Score": 8.75,
+      "trade2Score": 8.57,
+      "observationScore": 12.5,
+      "lastMonthPqaScore": 6.25,
+      "findingDetailScore": 38.57,
+      "totalScore": 74.64,
+      "status": "draft",
       "remark": "need to double check",
       "action": ""
     }
@@ -37,7 +67,7 @@
   "observation": [
     {
       "pqa_id": 1,
-      "observation": "blockwork",
+      "observation": [],
       "score_list": [],
       "remark_list": []
     }
