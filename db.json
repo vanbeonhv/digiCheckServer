@@ -1,7 +1,8 @@
 {
   "pqa": [
     {
-      "sn": "1",
+      "id": "1",
+      "pqa_id": "1",
       "projectCode": "KCDE",
       "author": "Scarlet Witch",
       "date": "20.10.2022",
@@ -13,10 +14,12 @@
       "totalScore": 74.64,
       "status": "submitted",
       "remark": "need to double check",
-      "action": ""
+      "action": "",
+      "deleted": true
     },
     {
-      "sn": "2",
+      "id": "2",
+      "pqa_id": "2",
       "projectCode": "BB5",
       "author": "Van",
       "date": "20.11.2022",
@@ -28,10 +31,12 @@
       "totalScore": 74.64,
       "status": "submitted",
       "remark": "need to double check",
-      "action": ""
+      "action": "",
+      "deleted": true
     },
     {
-      "sn": "3",
+      "id": "3",
+      "pqa_id": "3",
       "projectCode": "TWG",
       "author": "John Nathan",
       "date": "25.10.2022",
@@ -43,7 +48,56 @@
       "totalScore": 74.64,
       "status": "draft",
       "remark": "need to double check",
-      "action": ""
+      "action": "",
+      "deleted": true
+    },
+    {
+      "pqa_id": "4",
+      "projectCode": "TWG",
+      "author": "John Nathan",
+      "date": "25.10.2022",
+      "trade1Score": 8.75,
+      "trade2Score": 8.57,
+      "observationScore": 12.5,
+      "lastMonthPqaScore": 6.25,
+      "findingDetailScore": 38.57,
+      "totalScore": 74.64,
+      "status": "draft",
+      "remark": "need to double check",
+      "action": "",
+      "deleted": false
+    },
+    {
+      "pqa_id": "5",
+      "projectCode": "TWG",
+      "author": "John Nathan",
+      "date": "25.10.2022",
+      "trade1Score": 8.75,
+      "trade2Score": 8.57,
+      "observationScore": 12.5,
+      "lastMonthPqaScore": 6.25,
+      "findingDetailScore": 38.57,
+      "totalScore": 74.64,
+      "status": "draft",
+      "remark": "need to double check",
+      "action": "",
+      "deleted": false
+    },
+    {
+      "pqa_id": "6",
+      "projectCode": "TWG",
+      "author": "John Nathan",
+      "date": "25.10.2022",
+      "trade1Score": 8.75,
+      "trade2Score": 8.57,
+      "observationScore": 12.5,
+      "lastMonthPqaScore": 6.25,
+      "findingDetailScore": 38.57,
+      "totalScore": 74.64,
+      "status": "draft",
+      "remark": "need to double check",
+      "action": "",
+      "deleted": false
     }
   ],
   "checklist_1": [
