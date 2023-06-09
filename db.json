@@ -2,7 +2,6 @@
   "pqa": [
     {
       "id": "1",
-      "pqa_id": "1",
       "projectCode": "KCDE",
       "author": "Scarlet Witch",
       "date": "20.10.2022",
@@ -15,11 +14,10 @@
       "status": "submitted",
       "remark": "need to double check",
       "action": "",
-      "deleted": true
+      "deleted": false
     },
     {
       "id": "2",
-      "pqa_id": "2",
       "projectCode": "BB5",
       "author": "Van",
       "date": "20.11.2022",
@@ -32,27 +30,10 @@
       "status": "submitted",
       "remark": "need to double check",
       "action": "",
-      "deleted": true
+      "deleted": false
     },
     {
       "id": "3",
-      "pqa_id": "3",
-      "projectCode": "TWG",
-      "author": "John Nathan",
-      "date": "25.10.2022",
-      "trade1Score": 8.75,
-      "trade2Score": 8.57,
-      "observationScore": 12.5,
-      "lastMonthPqaScore": 6.25,
-      "findingDetailScore": 38.57,
-      "totalScore": 74.64,
-      "status": "draft",
-      "remark": "need to double check",
-      "action": "",
-      "deleted": true
-    },
-    {
-      "pqa_id": "4",
       "projectCode": "TWG",
       "author": "John Nathan",
       "date": "25.10.2022",
@@ -68,7 +49,7 @@
       "deleted": false
     },
     {
-      "pqa_id": "5",
+      "id": "4",
       "projectCode": "TWG",
       "author": "John Nathan",
       "date": "25.10.2022",
@@ -84,7 +65,7 @@
       "deleted": false
     },
     {
-      "pqa_id": "6",
+      "id": "5",
       "projectCode": "TWG",
       "author": "John Nathan",
       "date": "25.10.2022",
@@ -98,11 +79,31 @@
       "remark": "need to double check",
       "action": "",
       "deleted": false
+    },
+    {
+      "id": "6",
+      "projectCode": "TWG",
+      "author": "John Nathan",
+      "date": "25.10.2022",
+      "trade1Score": 8.75,
+      "trade2Score": 8.57,
+      "observationScore": 12.5,
+      "lastMonthPqaScore": 6.25,
+      "findingDetailScore": 38.57,
+      "totalScore": 74.64,
+      "status": "draft",
+      "remark": "need to double check",
+      "action": "",
+      "deleted": false
+    },
+    {
+      "status": "submitted",
+      "id": "RuK8UIu"
     }
   ],
   "checklist_1": [
     {
-      "pqa_id": 1,
+      "id": 1,
       "trade": "tiling",
       "location": "tower2",
       "score_list": [],
@@ -111,7 +112,7 @@
   ],
   "checklist_2": [
     {
-      "pqa_id": 1,
+      "id": 1,
       "trade": "blockwork",
       "location": "tower1",
       "score_list": [],
@@ -120,7 +121,7 @@
   ],
   "observation": [
     {
-      "pqa_id": 1,
+      "id": 1,
       "observation": [],
       "score_list": [],
       "remark_list": []
@@ -128,7 +129,7 @@
   ],
   "last_month_finding": [
     {
-      "pqa_id": 1,
+      "id": 1,
       "score_list": {
         "total_findings": 0,
         "yes": 0,
@@ -140,7 +141,6 @@
   ],
   "finding": [
     {
-      "pqa_id": 1,
       "id": "uuidv4",
       "severityPoint": 0,
       "frequencyPoint": 0,
