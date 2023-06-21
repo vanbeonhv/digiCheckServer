@@ -64,6 +64,7 @@
       "subAppPqaObservation": {
         "id": "0b44fbe3-5d78-4256-b1cc-4076db40ddc2",
         "pqa_id": "1",
+        "name": "Dummy Name",
         "observation": [],
         "score_list": [],
         "remark_list": [],
@@ -76,6 +77,7 @@
       "subAppPqaLastMonthFinding": {
         "id": "b1c4a89e-4905-5e3c-b57f-dc92627d011e",
         "pqa_id": "1",
+        "name": "Dummy Name",
         "score_list": {
           "total_findings": 0,
           "yes": 0,
@@ -92,6 +94,7 @@
       "subAppPqaFinding": [
         {
           "id": "cdb63720-9628-5ef6-bbca-2e5ce6094f3c",
+          "name": "Dummy Name",
           "pqa_id": "1",
           "severity_point": 0,
           "frequency_point": 0,
@@ -110,6 +113,7 @@
         },
         {
           "id": "efb63720-9628-5ef6-bbca-2e5ce6094f3c",
+          "name": "Dummy Name",
           "pqa_id": "1",
           "severity_point": 0,
           "frequency_point": 0,
